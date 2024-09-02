@@ -1,2 +1,2 @@
-# programas_marisol
-Programacion
+# Python talleres
+Programación
